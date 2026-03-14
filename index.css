@@ -4,13 +4,17 @@
 }
 
 body{
-	background-color: #CFCFCF;
+	background-color: white; /*a remettre eventuellement: #CFCFCF;*/
 }
 
 /*reset*/
 *{ 
 	margin: 0 0;
 	padding: 0 0;
+}
+
+.sub{
+	opacity: 0; 
 }
 
 /*header*/
